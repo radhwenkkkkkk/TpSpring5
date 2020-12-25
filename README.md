@@ -57,11 +57,20 @@ RQ : Ji'utilisé la dérniere version de boostrap.
 
 # P2 : ETAPE 6 :
 
--Oui  necessité  d'avoir le clé ( gratuit) 
--L'url :  http://api.openweathermap.org/data/2.5/weather + liste de paramétres
+1-Oui  necessité  d'avoir le clé ( gratuit) 
+
+2-L'url :  http://api.openweathermap.org/data/2.5/weather + liste de paramétres
+
 sur postman : api.openweathermap.org/data/2.5/box/city?bbox={bbox}&appid={c5e7171003a3b6aeff649355d5bf1871} 
--Il faut utliser GET
--temp sur Main.temp
--meteo sur Weather.description
+
+3-Il faut utliser GET
+
+4-temp sur Main.temp
+
+5-meteo sur Weather.description
+
+# LIEN GIT :
+
+https://github.com/radhwenkkkkkk/TpSpring5
 
 
