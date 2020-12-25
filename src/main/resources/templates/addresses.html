@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://thymeleaf.org">
+<head th:insert="/Fragment/header.html"></head>
+
+<div th:insert="/Fragment/navigation.html"></div>
+
+<body class=container>
+
+
+	<h1>Les différentes adresses</h1>
+	<ul th:each="address: ${allAddresses}">
+		<li th:utext="${address.content} + '<br /> (posté par ' + ${address.auteur } + ')'" />
+	</ul>
+
+
+</body>
+</html>
