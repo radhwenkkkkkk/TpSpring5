@@ -59,15 +59,19 @@ RQ : Ji'utilisé la dérniere version de boostrap.
 
 1-Oui  necessité  d'avoir le clé ( gratuit) 
 
-2-L'url :  http://api.openweathermap.org/data/2.5/weather + liste de paramétres
 
-sur postman : api.openweathermap.org/data/2.5/box/city?bbox={bbox}&appid={c5e7171003a3b6aeff649355d5bf1871} 
+2-L'url :  http://api.openweathermap.org/data/2.5/weather?
+
 
 3-Il faut utliser GET
 
-4-temp sur Main.temp
 
-5-meteo sur Weather.description
+4- api.openweathermap.org/data/2.5/weather?param=val,... + liste de paramétres
+
+
+5-temperature sur api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+
+ -meteo sur api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
 
 # LIEN GIT :
 
