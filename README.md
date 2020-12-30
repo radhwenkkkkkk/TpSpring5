@@ -1,6 +1,8 @@
 # TpSpring5
  Spring tp note
 
+# Consultez le projet par ici : http://localhost:8080/greeting
+
 
 # ETAPE 5 :
              # Les dépendances :
