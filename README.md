@@ -3,6 +3,8 @@
 
 # Consultez le projet par ici : http://localhost:8080/greeting
 
+![Capture2](https://user-images.githubusercontent.com/76172733/103336452-843c3000-4a78-11eb-8678-6e0065ecdb1a.PNG)
+
 
 # ETAPE 5 :
              # Les dépendances :
