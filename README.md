@@ -74,6 +74,8 @@ RQ : Ji'utilisé la dérniere version de boostrap.
 5-temperature sur api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 
  -meteo sur api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
+ 
+ ![Capture](https://user-images.githubusercontent.com/76172733/103336325-214a9900-4a78-11eb-9a0e-b4022d7c6da2.PNG)
 
 # LIEN GIT :
 
