@@ -60,7 +60,7 @@ RQ : Ji'utilisé la dérniere version de boostrap.
 1-Oui  necessité  d'avoir le clé ( gratuit) 
 
 
-2-L'url :  http://api.openweathermap.org/data/2.5/weather?
+2-L'url :  http://api.openweathermap.org/data/2.5/weather
 
 
 3-Il faut utliser GET
